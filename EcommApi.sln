@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommApi", "EcommApi.csproj", "{86835B85-939F-D7A7-9A23-CC1780AFF5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86835B85-939F-D7A7-9A23-CC1780AFF5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86835B85-939F-D7A7-9A23-CC1780AFF5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86835B85-939F-D7A7-9A23-CC1780AFF5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86835B85-939F-D7A7-9A23-CC1780AFF5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2806B5B0-999D-4BCB-A499-53A162E84065}
+	EndGlobalSection
+EndGlobal
